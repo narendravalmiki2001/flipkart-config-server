@@ -7,5 +7,5 @@ pring.jpa.hibernate.ddl-auto=none
           
 
  #Eureka Server Url
- eureka.client.service-url.defaultZone=http://localhost:8761/eureka/ 
+ eureka.client.service-url.defaultZone=http://localhost:8761/eureka
  
